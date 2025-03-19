@@ -16,4 +16,6 @@ Restart ATAS.
 
 Load the template 'SingularityTemplate' in ATAS interface.
 
+Load the Smart DOM template via the DOM settings (cog icon).
+
 ![Screenshot_B](Screenshot2.png)
