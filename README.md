@@ -3,6 +3,8 @@ An advanced Multi-Neural Network stock/crypto price predictor. (I am not respons
 
 For use in ATAS trading software.
 
+![Screenshot A](Screenshot1.png)
+
 Instructions:
 Place 'SingularityTemplate.cts' in 'Documents\ATAS\Chart\Templates'
 
@@ -13,3 +15,5 @@ Place 'SingularityDOMTemplate.dts' in 'Documents\ATAS\SmartDOM\Templates'
 Restart ATAS.
 
 Load the template 'SingularityTemplate' in ATAS interface.
+
+![Screenshot_B](Screenshot2.png)
