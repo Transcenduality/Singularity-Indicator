@@ -19,3 +19,5 @@ Load the template 'SingularityTemplate' in ATAS interface.
 Load the Smart DOM template via the DOM settings (cog icon).
 
 ![Screenshot_B](Screenshot2.png)
+
+(The red and blue lines above and below price are labelled with their respective prediction lengths upon inspecting them in ATAS, for example a blue line of length 8, above price, means the length 8 neural network predicts the indicated price, 8 candles in the future.)
